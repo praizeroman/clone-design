@@ -1,0 +1,81 @@
+body{
+    background-color: whitesmoke;
+    margin: 0px;
+    border: 0px;
+}
+
+.quiz{
+    background-color: rgba(0, 0, 0, 0.356);
+    color: whitesmoke;
+    padding: 10px;
+    margin-top: 0px;
+    text-align: center;
+    border: 0px;
+}
+.java{
+    text-align: center;
+    color: gray;
+    font-weight: normal;
+    margin: 1px;
+}
+
+.input{
+    align-content: center;
+    justify-content: center;
+    display: flex;
+    color: rgba(128, 128, 128, 0.712);
+    
+}
+
+main{
+    width: 40%; 
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 10px;
+}
+
+section{
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+
+.prev{
+    padding: 10px;
+    background-color: rgba(135, 207, 235, 0.829);
+    color: whitesmoke;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 40%;
+
+}
+
+.next{
+    padding: 10px;
+    background-color: rgba(135, 207, 235, 0.829);
+    color: whitesmoke;
+    border: none;
+    margin-right: 5px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+
+.input li{
+    list-style: none;
+}
+
+header{
+    background-color: black;
+    padding: 50px;
+    margin-top: 0px;
+    margin-bottom: 0.1%;
+}
+
+footer{
+    background-color: black;
+    padding: 40px;
+    margin-bottom: 0px;
+    margin-top: 0.1%;
+  
+}
